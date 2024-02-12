@@ -3,7 +3,7 @@
 --help Show help information
 --version Show command version
 
-**Section B **
+Section B
 cpu getinfo Get CPU information
 memory getinfo Get memory information
 user create Create a new user
